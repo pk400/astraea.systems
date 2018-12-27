@@ -1,0 +1,6 @@
+@import url(normalize.css);
+
+main {
+  border: 1px solid #333;
+  margin-top: 50px;
+}
